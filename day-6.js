@@ -1,4 +1,4 @@
-// javascript part 3 🚀🚀
+// javascript part 6 🚀🚀
 // Date 3-May-2024
 
 /*
